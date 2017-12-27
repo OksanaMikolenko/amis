@@ -2,6 +2,7 @@
     background-color: #FFFFFF;
 
 }
+<<<<<<< HEAD
 
 .logo {
     width: 100px;
@@ -38,3 +39,28 @@ h2 {
     color: #111111;
     font-family: Roboto;
 }
+=======
+.logo{
+    width:100px;
+    height: 50px;
+}
+/*.flat_page{*/
+    /*margin-left: 25%; !* Отступ слева *!*/
+    /*width: 50%; !* Ширина слоя *!*/
+    /*height: 200%;*/
+    /*background: #f7f7f7; !* Цвет фона *!*/
+    /*padding: 10px; !* Поля вокруг текста *!*/
+/*}*/
+.image{
+    width: 400px;
+    height: 230px;
+}
+.body{
+    background-image: url("../img/bg.jpg");
+}
+.content{
+    background-color: #bee5eb;
+    width: 1000px;
+    height: 1500px;
+}
+>>>>>>> 5657c3bf7819c9651d97d56025af1ee340889cf3

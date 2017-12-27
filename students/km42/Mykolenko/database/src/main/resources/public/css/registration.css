@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 
 
+=======
+body{
+    /* Safari 4-5, Chrome 1-9 */
+    background-image: url("../img/bg.jpg");
+
+
+}
+
+>>>>>>> 5657c3bf7819c9651d97d56025af1ee340889cf3
 .centered-form{
     margin-top: 60px;
 }
@@ -15,10 +25,17 @@ label.label-floatlabel {
     font-size: 11px;
 }
 .role{
+<<<<<<< HEAD
     padding-left: 100px;
 }
 .choserole{
     padding-left: 100px;
+=======
+    padding-left: 130px;
+}
+.choserole{
+    padding-left: 120px;
+>>>>>>> 5657c3bf7819c9651d97d56025af1ee340889cf3
 }
 .panel-title{
     padding-left: 100px;
@@ -27,6 +44,7 @@ label.label-floatlabel {
     color: #fff;
     background-color: #dc3545;
     border-color: #6c757d;
+<<<<<<< HEAD
 }
 .form-control .form-control-feedback{
     position: relative;
@@ -38,4 +56,6 @@ label.label-floatlabel {
     max-width: 330px;
     padding: 15px;
     margin: 0 auto;
+=======
+>>>>>>> 5657c3bf7819c9651d97d56025af1ee340889cf3
 }

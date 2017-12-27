@@ -17,8 +17,14 @@
     width: 400px;
     height: 230px;
 }
+<<<<<<< HEAD
 .content{
     margin-top: 10px;
     margin-right: 20px;
     margin-left: 26px;
 }
+=======
+.body{
+    background-image: url("../img/bg.jpg");
+}
+>>>>>>> 5657c3bf7819c9651d97d56025af1ee340889cf3

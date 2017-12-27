@@ -37,6 +37,7 @@ public class AdminPage {
 
         return modelAndView;
     }
+<<<<<<< HEAD
     @RequestMapping(value ="/admin", method = RequestMethod.POST)
     public void process(@RequestBody String payload){
         System.out.println(payload);
@@ -44,4 +45,13 @@ public class AdminPage {
     }
 
 
+=======
+    @RequestMapping(value ="/admin_delete/", method = RequestMethod.POST)
+    public void process(@RequestBody String payload){
+        System.out.println(payload);
+    }
+
+
+
+>>>>>>> 5657c3bf7819c9651d97d56025af1ee340889cf3
 }
